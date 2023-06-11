@@ -4,12 +4,14 @@ Javaの基本的な理解ができているかの確認問題
 
 ## フォルダ構造
 
+```
 JavaTest
 ├─src/example
 │ ├─AbilityCheck.java(問題1、2の解答例及び、問題3、4の呼び出し部分)
 │ └─LiarBoy.java(問題4の解答例)
 ├─Ans_3_while(問題3の解答例)
 └─README.md(このファイル)
+```
 
 ## このプロジェクトのダウンロード方法
 
